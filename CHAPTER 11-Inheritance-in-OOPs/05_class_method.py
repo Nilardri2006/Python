@@ -7,7 +7,7 @@
 # e.a = 50
 # e.show()  # Output: Employee a has value:50 duse to instance attribute
 
-# but what if i want to access the clss attribute even intsnace attribute is present?
+# but what if i want to access the class attribute even intsnace attribute is present?
 # then we use class method
 
 class Employee:
